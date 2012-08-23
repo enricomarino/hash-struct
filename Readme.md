@@ -1,3 +1,4 @@
+[![build status](https://secure.travis-ci.org/onirame/hash-struct.png)](http://travis-ci.org/onirame/hash-struct)
 # hash-struct
 
 JavaScript hash data structure library
